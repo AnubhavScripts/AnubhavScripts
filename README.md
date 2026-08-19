@@ -1,6 +1,6 @@
-# 💫 About Me:
+#  About Me:
 Full-stack developer building AI-powered web apps. Working across Next.js/Tailwind on the frontend and RAG pipelines/video analytics on the backend. Co-founder @ Connect SRM & Hackskill.in.
-🧑‍🤝‍🧑 I'm looking to collaborate on<br>RAG pipelines, AI/ML-powered web apps, and open-source Next.js projects<br><br>🤝 I'm looking for help with<br>Scaling video analytics pipelines and optimizing RAG-based systems<br><br>🌱 I'm currently learning<br>Golang, and diving deeper into DSA with C++<br><br>💬 Ask me about<br>Full-stack development, Next.js, Tailwind CSS, RAG pipelines, or building AI-powered products<br><br>⚡ Fun fact<br>I co-founded Connect SRM (1,500+ users) and Hackskill.in (200+ students onboarded) while still in college
+ I'm looking to collaborate on<br>RAG pipelines, AI/ML-powered web apps, and open-source Next.js projects<br><br>🤝 I'm looking for help with<br>Scaling video analytics pipelines and optimizing RAG-based systems<br><br>🌱 I'm currently learning<br>Golang, and diving deeper into DSA with C++<br><br>💬 Ask me about<br>Full-stack development, Next.js, Tailwind CSS, RAG pipelines, or building AI-powered products<br><br>⚡ Fun fact<br>I co-founded Connect SRM (1,500+ users) and Hackskill.in (200+ students onboarded) while still in college
 
 
 ## 🌐 Socials:
